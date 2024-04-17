@@ -17,7 +17,7 @@ Song Identifier is a web app built off of the Snaptutor app. My app is designed 
 ## Problem
 Remembering only fragments of song lyrics and struggling to identify the song is a common issue. Search engines may not provide accurate results for incomplete or non-unique lyrics.
 
-## Our Solution
+## Solution
 The app offers a straightforward interface for inputting lyrics and retrieving song names and artists. It uses a Generative AI model through the OpenAI API to analyze the lyrics and find the best match, offering an efficient and user-friendly solution.
 
 ## How It Works

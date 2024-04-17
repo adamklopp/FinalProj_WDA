@@ -1,7 +1,7 @@
 # Song Identifier
 
 ## Overview
-Song Identifier is a web app designed to help users find the name and artist of a song from a snippet of its lyrics. Based on the Flask framework and leveraging Generative AI, it offers a user-friendly interface where users can input lyrics and receive the corresponding song information.
+Song Identifier is a web app built off of the Snaptutor app. My app is designed to help users find the name and artist of a song from a snippet of its lyrics. Based on the Flask framework and leveraging Generative AI, it offers a user-friendly interface where users can input lyrics and receive the corresponding song information.
 
 ## File Structure
 - `app.py`: The Flask application's main file with routes and logic for song identification.

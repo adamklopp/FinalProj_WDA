@@ -28,7 +28,7 @@ To get the Song Identifier app up and running on your local system, perform the 
 
 1. Clone the repository to your machine.
 2. Change to the project directory.
-3. In the .env file enter your "OPENAI_API_KEY"
+3. In the OPENAI.env file enter your "OPENAI_API_KEY"
 4. Create a virtual environment with `python3 -m venv venv`.
 5. Activate the virtual environment:
       Use `source venv/bin/activate`
